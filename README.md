@@ -67,7 +67,7 @@ standard    4   18,19
 standard    4   14
 standard_hd 1   18
 ````
-Un fichier tornik-map-20171006.10000.tsv correspond à un extrait de 10000 d'un log réel ; il est fourni à des fins de tests.
+Un fichier tornik-map-20171006.10000.tsv correspond à un extrait de 10000 lignes d'un log réel ; il est fourni à des fins de tests.
 
 L’exécutable doit lire sur le log sur l'entrée standard (on lui a pipé une entrée) et envoyer le résultat dans la sortie standard.
 
