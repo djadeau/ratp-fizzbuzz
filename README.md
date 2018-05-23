@@ -9,7 +9,7 @@ Une tuile de plan correspond à une url de la forme :
 
 Dans notre cas, "photo" correspond à ce qu'on appelle le viewmode, cela va déterminer le mode d'affichage du plan. Parmi les valeurs possibles du viewmode, on retrouve : photo, standard, standard_hd (hd = haute définition), traffic, traffic_hd, etc.
 
-L’objectif de l'exercice de sortir le nombre de viewmodes identiques qui se suivent dans les lignes avec le nombre d’occurrences. Les urls qui ne correspondent pas à une tuile n'interviennent pas dans le décompte, en revenche on peut considérer que la tuile d'avant et la tuile d'après ne se suivent pas.
+L’objectif de l'exercice de sortir le nombre de viewmodes identiques qui se suivent dans les lignes avec le nombre d’occurrences. Les urls qui ne correspondent pas à une tuile doivent être ignorées.
 
 Ex : si en entrée on a 
 
@@ -47,8 +47,7 @@ standard_hd 1
 traffic 2
 standard    2
 public_transport_hd 1
-standard    3
-standard    1
+standard    4
 standard_hd 1
 ````
 
@@ -63,8 +62,7 @@ standard_hd 1   12
 traffic 2   14,17
 standard    2   19,17
 public_transport_hd 1   15
-standard    4   18,19
-standard    4   14
+standard    4   14,18,19
 standard_hd 1   18
 ````
 Un fichier tornik-map-20171006.10000.tsv correspond à un extrait de 10000 lignes d'un log réel ; il est fourni à des fins de tests.
