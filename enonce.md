@@ -69,12 +69,9 @@ Un fichier tornik-map-20171006.10000.tsv correspond à un extrait de 10000 ligne
 
 L’exécutable doit lire sur le log sur l'entrée standard (on lui a pipé une entrée) et envoyer le résultat dans la sortie standard.
 
-Le résultat de l'exercice sera un dépot git (idéalement sur github). Nous devons être autonomes pour valider le traitement de l'excercice.
+Le résultat de l'exercice sera un dépot git (idéalement sur github). Nous devons être autonomes pour valider le résultat de l'excercice.
 
 # Une dernière chose 
 Souvent certains candidats pensent que ce type d'exercice a pour but de montrer qu'on connait des fonctionnalités exotiques du langage... L'objectif est opposé : produire du code qui sera maintenable (donc simple et lisible) par le plus grand monde dans l'équipe.
 
 Bon code !
-
-
-
