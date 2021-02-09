@@ -7,5 +7,5 @@ Nous proposons ce FizzBuzz pour valider que nous sommes bien sur la même longeu
 Pour y postuler, **forkez** ce projet et répondez sur **GitHub** à l'énoncé dans **le langage de votre choix**. Pour info ma machine est sous Linux contient Python une JVM et Ruby ; d’autres dans l’équipe sont sous Windows donc on trouvera un moyen lancer le code si vous choisissez une technologie microsoft. 
 Si vous choisissez quelque chose de plus exotique, il faudra que nous sachions comment installer les dépendances nécessaires pour valider votre programme en moins de 5 minutes.
 
-Une fois l'exercice terminé, envoyez nous le lien en postulant par Recrutee (TODO : lien vers l'annonce)
+Une fois l'exercice terminé, envoyez nous le lien en postulant par Recrutee [Recrutee](https://mappy.recruitee.com/o/data-engineer)
 Bon code !
