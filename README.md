@@ -1,6 +1,6 @@
 # Fizzbuzz de l'équipe BI / Big Data Mappy
 
-Les postes ouverts dans l'équipe BI / Big Data sont publiés sur Recrutee (TODO : lien)
+Les postes ouverts dans l'équipe BI / Big Data sont publiés sur [Recrutee](https://mappy.recruitee.com/o/data-engineer)
 
 Nous proposons ce FizzBuzz pour valider que nous sommes bien sur la même longeur d'onde avec les candidats, de filter les programmeurs qui ne sont pas en pahse par rapport aux attentes de notre équipe, et de vous proposez un aperçu de la donnée brute qu'on traite. C'est un exercice simple et sans piège.
 
