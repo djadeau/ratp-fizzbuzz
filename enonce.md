@@ -67,7 +67,7 @@ standard_hd	1	18
 ````
 Un fichier tornik-map-20171006.10000.tsv correspond à un extrait de 10000 lignes d'un log réel ; il est fourni à des fins de tests.
 
-L’exécutable doit lire sur le log sur l'entrée standard (on lui a pipé une entrée) et envoyer le résultat dans la sortie standard.
+L’exécutable doit lire le log sur l'entrée standard (on lui a pipé une entrée) et envoyer le résultat dans la sortie standard.
 
 Le résultat de l'exercice sera un dépot git (idéalement sur github). Nous devons être autonomes pour valider le résultat de l'excercice.
 
